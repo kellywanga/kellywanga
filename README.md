@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 :fountain_pen: Connecting Dots since Birth</br>
 :computer: I :heart_eyes: working with Data</br>
 :meat_on_bone::poultry_leg: Part time Chef-Future Gordon ?</br>
-:gemini: Fun fact: Whiskey Connoisseur and Geopolitics kinda guy</br>
-:Bitcoin: Crypto-enthusiast</br>
+:gemini: Fun fact: Whiskey Connoisseur and Geopolitics kinda guy and Crypto-enthusiast</br>
+
 :mailbox: How to reach me: <a href="mailto:kelvinwanga@gmail.com">kelvinwanga@gmail.com</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kellywanga&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Kelly's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellywanga&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
