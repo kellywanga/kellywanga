@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kelvinwanga)](https://medium.com/@kelvinwanga)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kelvinobara/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
-:school: JKUAT,Kenya CS Major 🌱 I’m currently learning Web3 Frameworks & Solidity</br>
-:fountain_pen: Connecting Dots since Birth</br>
-:computer: I :heart_eyes: working with Data</br>
-:meat_on_bone::poultry_leg: Part time Chef-Future Gordon ?</br>
+:school: JKUAT,Kenya CS Major 🌱 I’m currently learning Web3 Frameworks & Solidity.</br>
+:fountain_pen: Connecting Dots since Birth. </br>
+:computer: I :heart_eyes: working with Data. </br>
+:meat_on_bone::poultry_leg: Part time Chef-Future Gordon!!? </br>
 :gemini: Fun fact: |Whiskey Connoisseur|Geopolitics kinda guy|Crypto-enthusiast</br>
 
 :mailbox: How to reach me: <a href="mailto:kelvinwanga@gmail.com">kelvinwanga@gmail.com</a>
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 </br>
 
 ## My Workspace:
-[<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1)</br>
+[<img height=40 src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows?r=1) </br>
