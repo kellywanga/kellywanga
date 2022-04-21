@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kelvinwanga)](https://medium.com/@kelvinwanga)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kelvinobara/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
-:school: JKUAT,Kenya CS Major 🌱 I’m currently learning Web3 Frameworks & Solidity.</br>
+:school: JKUAT,Kenya CS Major.OCI Certified 🌱 I’m currently learning Web3 Frameworks & Solidity.</br>
 :fountain_pen: Connecting Dots since Birth. </br>
 :computer: I :heart_eyes: working with Data. </br>
 :meat_on_bone::poultry_leg: Part time Chef-Future Gordon!!? </br>
-:gemini: Fun fact: |Whiskey Connoisseur|Geopolitics kinda guy|Crypto-enthusiast</br>
+:gemini: Fun fact: |Whiskey Connoisseur|Geopolitics kinda guy| - [💲 Crypto-enthusiast </br>
 
 :mailbox: How to reach me: <a href="mailto:kelvinwanga@gmail.com">kelvinwanga@gmail.com</a>
 
@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 ## 🔧 Technologies & Tools:
+   - [👩‍💻 Languages] : Python, SQL(PL-SQL,T-SQL),C, Java,HTML,CSS,Javascript,XML,Solidity(Beginner).
+   - [📊 Analytics] : MS-Excel, MS-Power BI, Oracle BIP, Open-Refine, Jupyter &Apache-Zeppelin Notebooks, Periscope-Data, metabase ,IBM-Cognos, Google Data Studio and Tableau.
+   - [⚡ Database]:MS-SQL, Oracle, MySQL, Postgres,Amazon-Redshift,IBM-DB2 , Mongo-DB & BigQuery.
+   - [📦 ETL]: Stitch, Segment, Open Talend studio & Pentaho
+   - [☁ Cloud]: AWS Infrastructure, Google Cloud Platform & Oracle Cloud Infrastructure
+   - [🤖 Artificial Intelligence]:ML in python & R
+   - [🔗 Blockchain]: Polygon,Polkadot,Ocean,PI Network
+
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;&nbsp;
