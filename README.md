@@ -118,7 +118,6 @@ Here are some ideas to get you started:
   </td>  
   </tr>
   <tr>
-  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -145,11 +144,6 @@ Here are some ideas to get you started:
         alt="Git"
       />
       <br /><strong>Git</strong>
-    </td>
-    
-    </td>
-   
-      <br /><strong>EMV in C </strong>
     </td>
   </tr>
 </table>
