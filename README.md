@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kelvin
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, Call me Kelly aka Kelly
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/@Kelly_obara)](https://twitter.com/@Kelly_obara)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kelvinwanga)](https://medium.com/@kelvinwanga)
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 :school: JKUAT,Kenya CS Major</br>
 :fountain_pen: Connecting Dots since Birth</br>
-:computer: I working with Data</br>
+:computer: I love working with Data</br>
 :kitchen: Part time Chef-Future Gordon ?</br>
 :Whiskey: Fun fact: Knit whiskey and geopolitics kinda guy</br>
 :mailbox: How to reach me: <a href="mailto:kelvinwanga@gmail.com">kelvinwanga@gmail.com</a>
