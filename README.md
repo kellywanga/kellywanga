@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 :fountain_pen: Connecting Dots since Birth</br>
 :computer: I :heart_eyes: working with Data</br>
 :meat_on_bone::poultry_leg: Part time Chef-Future Gordon ?</br>
-:gemini: Fun fact: Whiskey Connoisseur and Geopolitics kinda guy and Crypto-enthusiast</br>
+:gemini: Fun fact: |Whiskey Connoisseur|Geopolitics kinda guy|Crypto-enthusiast</br>
 
 :mailbox: How to reach me: <a href="mailto:kelvinwanga@gmail.com">kelvinwanga@gmail.com</a>
 
