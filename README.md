@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, Call me Kelly aka Kelly
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, Call me Kelly 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/@Kelly_obara)](https://twitter.com/@Kelly_obara)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kelvinwanga)](https://medium.com/@kelvinwanga)
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 :school: JKUAT,Kenya CS Major</br>
 :fountain_pen: Connecting Dots since Birth</br>
-:computer: I love working with Data</br>
-:kitchen: Part time Chef-Future Gordon ?</br>
-:Whiskey: Fun fact: Knit whiskey and geopolitics kinda guy</br>
+:computer: I :heart_eyes: working with Data</br>
+:meat_on_bone::poultry_leg: Part time Chef-Future Gordon ?</br>
+:Whiskey: Fun fact: Whiskey Connoisseur and Geopolitics kinda guy</br>
 :mailbox: How to reach me: <a href="mailto:kelvinwanga@gmail.com">kelvinwanga@gmail.com</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kellywanga&theme=github_dark&hide=contribs,issues&show_icons=true&include_all_commits=true&hide_border=true" alt="Kelly's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellywanga&theme=github_dark&layout=compact&exclude_repo=piercetheheavens.ga&hide_border=true&langs_count=6" /></a> |
